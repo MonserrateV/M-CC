@@ -9,6 +9,15 @@ background-size: cover;
 background-position:center;
 width: 100%;
 }
+.word-intro{
+  margin-top: -20%;
+}
+.nav-link{
+  font-family: 'charm',cursive;
+}
+.cont-info-img{
+margin: -25% -40%;
+}
 
 .pro{
   background-color: white;
@@ -16,6 +25,11 @@ width: 100%;
 }
 h1{
   color: gold;
+  font-family:'Rampart One',cursive;
+}
+
+h3{
+  font-family:'lato', sans-serif;
 }
 .banner{
   width: 100%;
