@@ -1,0 +1,22 @@
+.container{
+  border-top: 2px solid gold;
+  padding: 10% 10%;
+}
+.jumbotron{
+background-image: url("https://res.cloudinary.com/hamolyva9/image/upload/v1628197794/478DC70E-B5A9-46F4-8D8C-D8E9C28F5E24_jobqbj.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+background-position:center;
+width: 100%;
+}
+
+.pro{
+  background-color: white;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+  color: gold;
+}
+.banner{
+  width: 100%;
+}
