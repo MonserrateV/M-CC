@@ -1,6 +1,14 @@
+body{
+  background: #FDE08D;
+     background: -webkit-linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+   background: linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+}
+
+
 .container{
-  border-top: 2px solid gold;
+/*  border-top: 2px solid gold;*/
   padding: 10% 10%;
+
 }
 .jumbotron{
 background-image: url("https://res.cloudinary.com/hamolyva9/image/upload/v1628197794/478DC70E-B5A9-46F4-8D8C-D8E9C28F5E24_jobqbj.jpg");
@@ -9,11 +17,9 @@ background-size: cover;
 background-position:center;
 width: 100%;
 }
-.word-intro{
-  margin-top: -20%;
-}
-.nav-link{
+.nav-link, a{
   font-family: 'charm',cursive;
+  color: black !important;
 }
 .cont-info-img{
 margin: -25% -40%;
@@ -43,4 +49,9 @@ h3{
 }
 .banner{
   width: 100%;
+}
+a{
+background: #FDE08D;
+   background: -webkit-linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
+ background: linear-gradient(top, #8f6B29, #FDE08D, #DF9F28);
 }
